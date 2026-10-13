@@ -1,0 +1,1 @@
+An IoT-based Smart Parking Management System developed using Cisco Packet Tracer. The project integrates RFID authentication, motion sensors, a Home Gateway, and automated gate control to enable secure and efficient vehicle entry. It demonstrates wireless networking, IoT communication, and smart automation to reduce manual intervention in parking management.
